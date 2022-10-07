@@ -1,0 +1,17 @@
+month,dayOfMonth,wholeMonth
+JANUARY,1,false
+MARCH,28,false
+MARCH,29,false
+APRIL,1,false
+APRIL,30,false
+MAY,1,false
+MAY,8,false
+MAY,9,false
+JUNE,5,false
+JUNE,8,false
+JUNE,21,false
+JULY,1,true
+NOVEMBER,1,false
+DECEMBER,24,false
+DECEMBER,25,false
+DECEMBER,26,false
